@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Даниил Фомин](https://up.htmlacademy.ru/nodejs-2/6/user/1092889).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Наумов](https://github.com/NaumovEvgeniy).
 
 ---
 
